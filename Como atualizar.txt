@@ -1,0 +1,11 @@
+[20:45, 20/03/2022] +55 69 9279-0158: Boa noite
+[20:45, 20/03/2022] +55 69 9279-0158: a versão que eu te mandei
+[20:45, 20/03/2022] +55 69 9279-0158: ela já tinha um sistema de auto-update
+[20:45, 20/03/2022] +55 69 9279-0158: mas ta tendo umas mudanças drasticas no script
+[20:45, 20/03/2022] +55 69 9279-0158: ai por isso está dando problema
+[20:46, 20/03/2022] +55 69 9279-0158: eu fiz um sistema nele para tentar resolver isso
+[20:46, 20/03/2022] +55 69 9279-0158: seguinte, lembra que aparece uma link no console né quando entra na pagina de trade ou atualiza a pagina.
+[20:47, 20/03/2022] +55 69 9279-0158: quando não tiver funcionando
+[20:47, 20/03/2022] +55 69 9279-0158: tu abre esse link do console no navegador
+[20:47, 20/03/2022] +55 69 9279-0158: clica com o direito, e salva ele nessa pasta em cima do novo.js
+[20:47, 20/03/2022] +55 69 9279-0158: troca um pelo outro

@@ -1,0 +1,15 @@
+{
+  "name": "iq-option",
+  "version": "1.0.0",
+  "description": "iQ option",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "SmoLL",
+  "dependencies": {
+    "puppeteer": "^13.3.2",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0"
+  }
+}
